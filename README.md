@@ -1,10 +1,10 @@
 # SnakeGame
 [![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]()
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/zatch3301/SnakeGame)
+[![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/GulshanKumarNaidu/Snake-Game)
 
 A basic game of Snake game built with [Vanilla Javascript](https://github.com/topics/javascript) only.<br/>
- You can play the game [here](https://zatch3301.github.io/SnakeGame/).
+ You can play the game [here](https://gulshankumarnaidu.github.io/Snake-Game/).
 
 ![snake game](snake.gif)
 
